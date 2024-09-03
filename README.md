@@ -18,10 +18,39 @@ This research introduces an innovative approach to reducing the computational co
 
 ## Results
 
-- **Optimized Comparators**: The proposed comparators reduced the number of T-gates by half compared to the original designs.
-- **Improvement in T-depth**: The optimizations also resulted in a significant decrease in T-depth, suggesting reduced execution time for the circuits.
-- **Practical Implementation**: The optimized circuits are compatible with current quantum platforms and are designed to facilitate error correction.
+The proposed optimizations have achieved significant advancements in quantum circuit design. First, the optimized comparators reduce the number of T-gates by half compared to the original designs and significantly decrease the T-depth, which suggests a reduction in circuit execution time. Additionally, these optimized circuits are compatible with current quantum platforms and are designed to facilitate error correction.
 
+The detailed analysis in **Table 1** compares various quantum circuits with the proposed optimized circuits, showing the following key results:
+
+- **Optimized Proposed Circuit 1** demonstrates a notable reduction in **T-count** (from 54 to 24) and **T-depth** (from 24 to 5) compared to the circuit by Thapliyal et al.
+- **Optimized Proposed Circuit 2** and **Optimized Proposed Circuit 3** also show significant improvements in both metrics compared to the circuits by Maity and Kalita et al., respectively.
+- Although the optimized circuits require a slightly higher number of ancillary qubits, this small increase is offset by the significant improvement in computational efficiency.
+- The optimizations are achieved exclusively using Clifford+T gates, highlighting the focus on precision and efficiency in quantum computations.
+
+These results underscore that the optimizations introduced for the TR, Peres, and GN gates have had a highly positive impact on the overall performance of the circuits, emphasizing their potential for practical applications in quantum circuit design.
+
+### Table 1: Comparison of circuits in terms of T-count, T-depth, ancillary qubits, comparator type, and number of digits compared.
+
+| Circuit                             | T-count | T-depth | Anc. Qubits | Type | No. Digits |
+|-------------------------------------|---------|---------|-------------|------|------------|
+| Thapliyal et al. [[1]](#1)                   | 54      | 24      | 4           | Half | 2          |
+| **Optimized Proposed Circuit 1**    | **24**  | **5**   | **10**      | Half | 2          |
+| Maity  [[2]](#2)                              | 36      | 16      | 4           | Full | 2          |
+| **Optimized Proposed Circuit 2**    | **16**  | **4**   | **8**       | Full | 2          |
+| Kalita et al. [[3]](#3)                   | 9       | 6       | 2           | Full | 1          |
+| **Optimized Proposed Circuit 3**    | **4**   | **2**   | **2**       | Full | 1          |
+
+## Future Work
+
+- **Scaling the Circuits**: Expand the proposed comparators to handle a greater number of digits, enhancing their applicability in practical quantum computing scenarios.
+- **Integration of New Methods**: Explore the integration of new optimization techniques and error correction methods to further improve circuit efficiency.
+
+## References 
+
+- <a name="1">[1]</a> Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible .logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116
+- <a name="2">[2]</a> Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534
+- <a name="3">[3]</a> Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015
+  
 ## Publication
 
 This work has been published in the *Journal of Supercomputing*:
@@ -36,12 +65,6 @@ This work has been published in the *Journal of Supercomputing*:
 If you find this work useful and wish to cite it, please use the following reference:
 
 Donaire, L. M., Ortega, G., Garzón, E. M., & Orts, F. (2024). Lowering the cost of quantum comparator circuits. Journal of Supercomputing, 80, 13900–13917. https://doi.org/10.1007/s11227-024-05959-4
-
-
-## Future Work
-
-- **Scaling the Circuits**: Expand the proposed comparators to handle a greater number of digits, enhancing their applicability in practical quantum computing scenarios.
-- **Integration of New Methods**: Explore the integration of new optimization techniques and error correction methods to further improve circuit efficiency.
 
 ## Contact
 
