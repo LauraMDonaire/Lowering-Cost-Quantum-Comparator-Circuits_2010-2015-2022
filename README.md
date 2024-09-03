@@ -33,12 +33,12 @@ These results underscore that the optimizations introduced for the TR, Peres, an
 
 | Circuit                             | T-count | T-depth | Anc. Qubits | Type | No. Digits |
 |-------------------------------------|---------|---------|-------------|------|------------|
-| Thapliyal et al. [[1]](#1)                   | 54      | 24      | 4           | Half | 2          |
-| **Optimized Proposed Circuit 1**    | **24**  | **5**   | **10**      | Half | 2          |
-| Maity  [[2]](#2)                              | 36      | 16      | 4           | Full | 2          |
-| **Optimized Proposed Circuit 2**    | **16**  | **4**   | **8**       | Full | 2          |
-| Kalita et al. [[3]](#3)                   | 9       | 6       | 2           | Full | 1          |
-| **Optimized Proposed Circuit 3**    | **4**   | **2**   | **2**       | Full | 1          |
+| Thapliyal et al. [[1]](#1)                   | 54      | 24      | 4           | Half - Comparator | 2          |
+| **Optimized Proposed Circuit 1**    | **24**  | **5**   | **10**      | Half - Comparator           | 2 |
+| Maity  [[2]](#2)                              | 36      | 16      | 4           | Full Comparator | 2          |
+| **Optimized Proposed Circuit 2**    | **16**  | **4**   | **8**       | Full Comparator | 2          |
+| Kalita et al. [[3]](#3)                   | 9       | 6       | 2           | Full Comparator | 1          |
+| **Optimized Proposed Circuit 3**    | **4**   | **2**   | **2**       | Full Comparator | 1          |
 
 ## Future Work
 
@@ -47,9 +47,9 @@ These results underscore that the optimizations introduced for the TR, Peres, an
 
 ## References 
 
-- <a name="1">[1]</a> Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible .logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116
-- <a name="2">[2]</a> Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534
-- <a name="3">[3]</a> Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015
+- <a name="1">[1]</a> Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116. [DOI:10.1109/NANO.2010.5697872](https://doi.org/10.1109/NANO.2010.5697872)
+- <a name="2">[2]</a> Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534. [DOI:10.1007/s10825-022-01858-0](https://doi.org/10.1007/s10825-022-01858-0)
+- <a name="3">[3]</a> Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015. [DOI:10.1145/2818567.2818685](https://doi.org/10.1145/2818567.2818685)
   
 ## Publication
 
