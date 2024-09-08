@@ -84,10 +84,10 @@ The metrics for these circuits can be found in the `README.md` file of this repo
 
 ## References 
 
-[1] Li HS, Fan P, Xia H, Peng H, Long G (2020) Efcient quantum arithmetic operation circuits for quantum image processing. Sci China Phys Mech Astron 63:1–13
-[2] Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116
-[3] Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015
-[4] Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534
+- [1] Li HS, Fan P, Xia H, Peng H, Long G (2020) Efcient quantum arithmetic operation circuits for quantum image processing. Sci China Phys Mech Astron 63:1–13
+- [2] Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116
+- [3] Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015
+- [4] Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534
 
 ## How to Use
 
