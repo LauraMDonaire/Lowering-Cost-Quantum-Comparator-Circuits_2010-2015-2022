@@ -54,7 +54,7 @@ T-gates is the proposed GN gate, so the total T-count is 4, while the T-depth is
     <b>Figure 2.1: Proposed comparator based on Kalita et al. (2015)</b>
 </p>
   
-- **IBM Quantum Platform**: [View Circuit (n=8) on IBM Quantum Platform](https://quantum.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcIAKAnA9gBzQZxgEwAICB5DAFwEsoLdCBhNKDCFCMtFAgIwloIrAEA0hAA2FMhAC0AZQASAQQBKAUQAiIADQgAjrygIQxJCoByARQUyAsgQBMAOgAMAbgA6YAQGNRAVzwwBG66MOJcAIwO3sHuYB46KDAA5gQ6ANoALAC6sV6JKV6ZOR4eABapaXbFYIm4ZBUAzNX16VWxPCgoFDCc6U5ZmhXhAxVVg%2BlNsQAeFf25M30jrdVeC2nD45Ura2ND26NLaXMeZHgpi7Gn5%2BvNB-MHm8dga0%2BrD3v36Ruz1eXLsdg7h43stNpMPB0uj0fptvqDGvtFps2h4XtVId1ekdDnCtmCcgQAPSEggAAQwpV4MDUNAA1h5iWSvGg-FAwICjponJpwpo7JoGpoMpoAKyaABsmgA7JoAByaACcPO54RVKt54X5mp5gvCuuF4TF4Ul4Rl4VlWQ8sF4vkSPwIUgAfARCk9rdhbYEvlkHc7CsNYu7PQdfS6toGYDa7RMfU6w%2BC4mBGaTmaz2QROSq%2BQKhaKJdK5YX5UrVcqeRqNVr9TyjSazfLwkq7Ny7MMPFoQAFsHkKOQKGgwIYQABfIA).
+- **IBM Quantum Platform**: [View Circuit on IBM Quantum Platform](https://quantum.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcIAKAnA9gBzQZxgEwAICB5DAFwEsoLdCBhNKDCFCMtFAgIwloIrAEA0hAA2FMhAC0AZQASAQQBKAUQAiIADQgAjrygIQxJCoByARQUyAsgQBMAOgAMAbgA6YAQGNRAVzwwBG66MOJcAIwO3sHuYB46KDAA5gQ6ANoALAC6sV6JKV6ZOR4eABapaXbFYIm4ZBUAzNX16VWxPCgoFDCc6U5ZmhXhAxVVg%2BlNsQAeFf25M30jrdVeC2nD45Ura2ND26NLaXMeZHgpi7Gn5%2BvNB-MHm8dga0%2BrD3v36Ruz1eXLsdg7h43stNpMPB0uj0fptvqDGvtFps2h4XtVId1ekdDnCtmCcgQAPSEggAAQwpV4MDUNAA1h5iWSvGg-FAwICjponJpwpo7JoGpoMpoAKyaABsmgA7JoAByaACcPO54RVKt54X5mp5gvCuuF4TF4Ul4Rl4VlWQ8sF4vkSPwIUgAfARCk9rdhbYEvlkHc7CsNYu7PQdfS6toGYDa7RMfU6w%2BC4mBGaTmaz2QROSq%2BQKhaKJdK5YX5UrVcqeRqNVr9TyjSazfLwkq7Ny7MMPFoQAFsHkKOQKGgwIYQABfIA).
 
 ### Circuit 3: Maity (2022) 
 - **Authors**: H. Maity
