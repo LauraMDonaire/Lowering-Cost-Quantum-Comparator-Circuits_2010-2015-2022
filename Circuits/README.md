@@ -4,6 +4,7 @@
 
 This section of the repository showcases various quantum comparators and their optimized versions in terms of T-count and T-depth. For each circuit, you will find visual diagrams, small descriptions, and links to their implementations on the IBM Quantum Platform.
 ## Circuits 
+We have concentrated on the comparator circuits from [1, 2, 3, 4], which rely on high-cost gates (GN, Peres, and TR gates) in terms of T-gates. These gates either lack T-gate optimization or could benefit from it. Specifically, we selected circuits from [2, 3, 4] as they incorporate various gate types and best demonstrate the optimization methodology. Additionally, reference [1] could also be optimized similarly. This work introduces three new circuits that focus on using Clifford+T gates and reducing T-gate dependency to enhance efficiency.
 
 ### Circuit 1: Thapliyal et al. (2010)
 - **Authors**: H. Thapliyal, N. Ranganathan and R. Ferreira
@@ -80,6 +81,13 @@ Using the new version of the [Peres gate proposed](../Gates/Peres_gate/Peres_pro
 
 ## Metrics
 The metrics for these circuits can be found in the `README.md` file of this repository.
+
+## References 
+
+[1] Li HS, Fan P, Xia H, Peng H, Long G (2020) Efcient quantum arithmetic operation circuits for quantum image processing. Sci China Phys Mech Astron 63:1–13
+[2] Thapliyal H, Ranganathan N, Ferreira R (2010) Design of a comparator tree based on reversible logic. In: 2010 10th IEEE Conference on Nanotechnology, pp 1113–1116
+[3] Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015
+[4] Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534
 
 ## How to Use
 
