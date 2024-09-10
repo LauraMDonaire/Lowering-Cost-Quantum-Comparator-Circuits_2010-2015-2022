@@ -70,4 +70,5 @@ Donaire, L. M., Ortega, G., Garzón, E. M., & Orts, F. (2024). Lowering the cost
 
 For more information, suggestions, or collaboration, you can contact:
 
-- **Laura M. Donaire**: [laura.donaire@ual.es](mailto:laura.donaire@ual.es)
+- **Laura M. Donaire** (TIC-146 Supercomputación-Algoritmos [SAL], University of Almería): [laura.donaire@ual.es](mailto:laura.donaire@ual.es)
+
