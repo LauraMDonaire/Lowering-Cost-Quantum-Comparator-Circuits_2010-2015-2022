@@ -1,5 +1,14 @@
 # Lowering the Cost of Quantum Comparator Circuits
 
+## Publication
+
+This work has been published in the *Journal of Supercomputing*:
+
+- **Title**: Lowering the Cost of Quantum Comparator Circuits
+- **Authors**: Laura M. Donaire, Gloria Ortega, Ester M. Garzón, Francisco Orts
+- **Published Online**: March 13, 2024
+- **DOI**: [10.1007/s11227-024-05959-4](https://doi.org/10.1007/s11227-024-05959-4)
+  
 ## Summary
 
 This research introduces an innovative approach to reducing the computational cost of quantum comparator circuits, which are fundamental components in a wide range of quantum algorithms. Our study focuses on optimizing comparator circuits using only gates from the Clifford+T set, with a particular emphasis on minimizing the use of T-gates, which are resource-intensive in terms of computational cost and execution time.
@@ -51,14 +60,6 @@ These results underscore that the optimizations introduced for the TR, Peres, an
 - <a name="2">[2]</a> Maity H (2022) Design and implementation of a two-qubit quantum comparator circuit (Q-CC). J Comput Electron 21:530–534. [DOI:10.1007/s10825-022-01858-0](https://doi.org/10.1007/s10825-022-01858-0)
 - <a name="3">[3]</a> Kalita G, Saikia N (2015) Reversible comparator circuit using a new reversible gate. In: Proceedings of the Sixth International Conference on Computer and Communication Technology 2015. [DOI:10.1145/2818567.2818685](https://doi.org/10.1145/2818567.2818685)
   
-## Publication
-
-This work has been published in the *Journal of Supercomputing*:
-
-- **Title**: Lowering the Cost of Quantum Comparator Circuits
-- **Authors**: Laura M. Donaire, Gloria Ortega, Ester M. Garzón, Francisco Orts
-- **Published Online**: March 13, 2024
-- **DOI**: [10.1007/s11227-024-05959-4](https://doi.org/10.1007/s11227-024-05959-4)
 
 ## How to Cite
 
